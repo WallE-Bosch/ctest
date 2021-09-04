@@ -180,7 +180,39 @@
     }
   }
 
-  .title {
+  .title1 {
+    background-color: yellow; /*green*/
+    color: black; 
+    position: relative;  
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 0px;
+    margin-left: auto;
+  
+    font-weight: bold;
+  
+  }
+
+  .title2 {
+    background-color: black; /*green*/
+    color: white; 
+    position: relative;  
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 0px;
+    margin-left: auto;
+  
+    font-weight: bold;
+  
+  }
+
+  .title3 {
     background-color: #90EE90; /*green*/
     color: black; 
     position: relative;  
@@ -194,12 +226,8 @@
   
     font-weight: bold;
   
-  
   }
-  title.title1{
-    background-color: darkblue;
-    color: white;
-}
+  
   
   
 
